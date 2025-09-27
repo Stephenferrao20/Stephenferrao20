@@ -6,7 +6,6 @@
 - 🔧 Full-Stack Web Development (MERN, Next.js, FastAPI)
 - 🧠 AI-Enhanced Applications (chatbots, content generation, automation)
 - 🌐 API Design, Integration & Deployment
-- 🎨 UI/UX-first Design with modern frontend tools
 
 ---
 
